@@ -11,7 +11,13 @@ It will come soon.
 
 The main point of the game is supposed to be multiplayer.  Also, Unity free only supports up to 20 players, so the game will only be able to hold 20 players, but I will host my own server eventually (When I get more than 20 players playing at once.
 
-## Credits
- 
+# Credits
+## Contributers
+HoiTemmieColeg
+
+## Assets
+Characters
+- Toony Tiny People Demo https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188
+Map
  
 There's nothing here but I'm going to credit anyone who contributes (if anyone does) and the assets I used from the asset store.
