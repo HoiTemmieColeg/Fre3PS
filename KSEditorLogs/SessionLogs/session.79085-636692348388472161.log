@@ -1,0 +1,5 @@
+2018-08-07 10:40:20.7624 [DEBUG] Cancelled connection
+2018-08-07 10:40:20.7684 [DEBUG] Aborting connection attempt for room (79085:SceneFusion:SceneFusion)
+2018-08-07 10:40:20.7714 [DEBUG] Connection attempt aborted. (79085:SceneFusion:SceneFusion)
+2018-08-07 10:40:20.7764 [DEBUG] Connection failed. (79085:SceneFusion:SceneFusion)
+2018-08-07 10:40:20.8544 [ERROR] Connection failed: RESET

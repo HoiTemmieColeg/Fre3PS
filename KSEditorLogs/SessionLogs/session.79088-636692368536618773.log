@@ -1,0 +1,23 @@
+2018-08-07 11:07:33.8578 [DEBUG] Validating model...
+2018-08-07 11:07:34.0169 [DEBUG] Model updated
+2018-08-07 11:07:34.0178 [DEBUG] Authenticating with server...
+2018-08-07 11:07:34.4479 [DEBUG] Connected to room. (79088:SceneFusion:SceneFusion)
+2018-08-07 11:07:34.4609 [INFO] Connected to server.
+2018-08-07 11:07:34.4619 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 11:07:34.4619 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 11:07:34.4619 [DEBUG] Pro License : False
+2018-08-07 11:07:34.4619 [DEBUG] Platform : WindowsEditor
+2018-08-07 11:07:34.4619 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 11:07:34.4619 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 11:07:34.4619 [DEBUG] Scene Fusion client build : 0
+2018-08-07 11:07:34.4619 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 11:07:34.4629 [DEBUG] Waiting for server response
+2018-08-07 11:07:34.5269 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 11:07:34.5269 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 11:07:35.2579 [DEBUG] Uploading scene 'Main'
+2018-08-07 11:07:37.0350 [DEBUG] Compressing scene data
+2018-08-07 11:07:38.7011 [DEBUG] Spawn request. (Objects: 229)
+2018-08-07 11:07:39.1041 [DEBUG] Loading complete
+2018-08-07 11:08:24.5878 [DEBUG] Disconnecting from room (79088:SceneFusion:SceneFusion)
+2018-08-07 11:08:24.5978 [INFO] Disconnected from server.
+2018-08-07 11:08:24.5978 [DEBUG] Disconnect. (Duration: 50)

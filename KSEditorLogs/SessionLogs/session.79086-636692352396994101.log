@@ -1,0 +1,23 @@
+2018-08-07 10:40:39.9224 [DEBUG] Validating model...
+2018-08-07 10:40:40.0594 [DEBUG] Model updated
+2018-08-07 10:40:40.0614 [DEBUG] Authenticating with server...
+2018-08-07 10:40:40.5154 [DEBUG] Connected to room. (79086:SceneFusion:SceneFusion)
+2018-08-07 10:40:40.5694 [INFO] Connected to server.
+2018-08-07 10:40:40.5704 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 10:40:40.5704 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 10:40:40.5724 [DEBUG] Pro License : False
+2018-08-07 10:40:40.5734 [DEBUG] Platform : WindowsEditor
+2018-08-07 10:40:40.5734 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 10:40:40.5744 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 10:40:40.5744 [DEBUG] Scene Fusion client build : 0
+2018-08-07 10:40:40.5744 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 10:40:40.5744 [DEBUG] Waiting for server response
+2018-08-07 10:40:40.6734 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 10:40:40.6734 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 10:40:44.9562 [DEBUG] Uploading scene 'Untitled'
+2018-08-07 10:40:45.1192 [DEBUG] Spawn request. (Objects: 2)
+2018-08-07 10:40:45.4142 [DEBUG] Loading complete
+2018-08-07 10:43:24.3071 [DEBUG] Refresh token (o6EJgkbHbKBnY3iHY7oUkpNukqOnktBy0GwkkZOYUBU1Ppgd78pgR34mQzeMMzGsOnO22tiQSoJYiL9YaJfrt2PcGAS4J5CmWhGRl6T0DUDsHNKPuRBA3itP4jd23tSph2c9JHfknm9ScKiwfXkKbWbhTGzhCHBd7GRbIbQF1lEnuejz6uJPZAy2YXEE3O27FrP9nPdlo1Zs5b8KN1Ij6RSWrJtjbchi92nrdnu8bwt8uPKJByJCOlc1iIstiIB) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-08-07 11:07:19.1607 [DEBUG] Disconnecting from room (79086:SceneFusion:SceneFusion)
+2018-08-07 11:07:19.1717 [INFO] Disconnected from server.
+2018-08-07 11:07:19.1727 [DEBUG] Disconnect. (Duration: -2840)

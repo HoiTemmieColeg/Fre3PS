@@ -1,0 +1,85 @@
+2018-08-07 10:31:40.4423 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 10:31:40.5063 [INFO] Setting define symbol SCENE_FUSION
+2018-08-07 10:31:56.0611 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 10:33:57.8781 [INFO] Launching Session: Untitled
+2018-08-07 10:33:58.6862 [DEBUG] Connecting
+2018-08-07 10:33:58.7692 [DEBUG] Connecting to room (79085:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 10:40:20.8984 [DEBUG] Sent C:/Users/camper/Documents/Fre3PS/KSEditorLogs/SessionLogs/session.79085-636692348388472161.log
+2018-08-07 10:40:38.9765 [INFO] Launching Session: Untitled
+2018-08-07 10:40:39.6704 [DEBUG] Connecting
+2018-08-07 10:40:39.6924 [DEBUG] Connecting to room (79086:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 11:07:19.9298 [DEBUG] Sent C:/Users/camper/Documents/Fre3PS/KSEditorLogs/SessionLogs/session.79086-636692352396994101.log
+2018-08-07 11:07:32.8384 [INFO] Launching Session: Main
+2018-08-07 11:07:33.6318 [DEBUG] Connecting
+2018-08-07 11:07:33.6538 [DEBUG] Connecting to room (79088:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1027
+2018-08-07 11:08:24.7548 [DEBUG] Sent C:/Users/camper/Documents/Fre3PS/KSEditorLogs/SessionLogs/session.79088-636692368536618773.log
+2018-08-07 11:11:31.6533 [DEBUG] Refresh token (YmTlU5hxLFcz0HuneCSiEuM5Lio135WUNdqG6bhSshdUOYoeRcBfcs7b7HahnlX4gX6O1QhctRCrq627XOgRQ7dxanajpcsNz1CBaNnoImHrUNuc76M6D10Cy3ap7qEe9Mh7u0alCyqrotcowyHpFZqEsU1AFkxOPa8mPmKpCs6c6cO8y83dHiFbwqqpoMqw8HzFlrrqIoJO4y2xuhpbrCXQtlanmbYIXPRsqUwpPhmQHKjT85RopUz2BRibamx) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-08-07 11:17:34.4133 [INFO] Launching Session: Main
+2018-08-07 11:17:35.1463 [DEBUG] Connecting
+2018-08-07 11:17:35.1713 [DEBUG] Connecting to room (79090:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 11:30:14.7025 [DEBUG] Sent C:/Users/camper/Documents/Fre3PS/KSEditorLogs/SessionLogs/session.79090-636692374551783521.log
+2018-08-07 11:40:23.3188 [DEBUG] Refresh token (Rrpgguxa8oLyECL1mp5kSQ73yO7jmT4PrGsM4L4xkifBGSIeml3uz8TIefJjeDoQIwRsR8Eiu8u2d7DDaknNfk63c8THdunhfFEL3LrEo3ac3ucEYYga5RXN6sD6RK0kk63WYFs4RBJQleSQXi4269rrizFrwfEgD5SrwfIgtpoDbXOH8xbmqugzIpPinmdAhJLRk3Z1S5flIT1szguG1LimsAHNMLCeaajUpk7FIitfFhgegaanBbbkLwoH2kh) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-08-07 13:19:24.5969 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:19:24.8139 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:19:26.4450 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:19:44.3540 [DEBUG] Play mode: False
+2018-08-07 13:24:32.8885 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:24:33.1215 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:24:34.8476 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:24:37.5627 [DEBUG] Play mode: False
+2018-08-07 13:26:24.0070 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:26:24.2160 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:26:25.8461 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:26:27.3804 [DEBUG] Play mode: False
+2018-08-07 13:29:19.1884 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:29:19.4194 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:29:21.0615 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:29:27.2488 [DEBUG] Play mode: False
+2018-08-07 13:32:40.4036 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:32:43.3068 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:33:46.7099 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:33:49.6261 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:34:08.9742 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:34:09.1832 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:34:10.9513 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:34:30.3594 [DEBUG] Play mode: False
+2018-08-07 13:37:21.9236 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:37:22.0696 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:37:23.7567 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:37:31.6341 [DEBUG] Play mode: False
+2018-08-07 13:37:55.3455 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:37:55.5005 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:37:57.2666 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:38:03.1509 [DEBUG] Play mode: False
+2018-08-07 13:55:37.0047 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:55:40.1019 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:55:54.6201 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:55:54.8021 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:55:56.4382 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:55:59.3413 [DEBUG] Play mode: False
+2018-08-07 13:56:16.6153 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:56:16.7733 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:56:18.5564 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:56:24.0577 [DEBUG] Play mode: False
+2018-08-07 13:56:56.7467 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:56:56.9267 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:56:58.6277 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:57:03.6660 [DEBUG] Play mode: False
+2018-08-07 13:57:18.1240 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:57:18.3140 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:57:20.0762 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:58:11.9211 [DEBUG] Play mode: False
+2018-08-07 13:58:38.6811 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:58:38.9221 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:58:40.6862 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:58:41.4132 [DEBUG] Play mode: False
+2018-08-07 13:58:54.5120 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 13:58:54.6720 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 13:58:56.0171 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 13:58:57.8812 [DEBUG] Play mode: False
+2018-08-07 14:02:49.9106 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 14:02:50.0676 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 14:02:51.8877 [DEBUG] Refresh token () error: {"err":"Invalid token"}
+2018-08-07 14:03:39.8514 [DEBUG] Play mode: False
+2018-08-07 14:13:12.3497 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 14:13:18.1555 [DEBUG] Refresh token () error: {"err":"Invalid token"}

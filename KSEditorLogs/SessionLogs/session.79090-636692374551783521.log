@@ -1,0 +1,797 @@
+2018-08-07 11:17:35.3733 [DEBUG] Validating model...
+2018-08-07 11:17:35.5253 [DEBUG] Model updated
+2018-08-07 11:17:35.5253 [DEBUG] Authenticating with server...
+2018-08-07 11:17:35.9723 [DEBUG] Connected to room. (79090:SceneFusion:SceneFusion)
+2018-08-07 11:17:36.0124 [INFO] Connected to server.
+2018-08-07 11:17:36.0124 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 11:17:36.0133 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 11:17:36.0133 [DEBUG] Pro License : False
+2018-08-07 11:17:36.0133 [DEBUG] Platform : WindowsEditor
+2018-08-07 11:17:36.0133 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 11:17:36.0133 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 11:17:36.0133 [DEBUG] Scene Fusion client build : 0
+2018-08-07 11:17:36.0133 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 11:17:36.0143 [DEBUG] Waiting for server response
+2018-08-07 11:17:36.0194 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 11:17:36.0204 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 11:17:36.2354 [DEBUG] Uploading scene 'Main'
+2018-08-07 11:17:38.0115 [DEBUG] Compressing scene data
+2018-08-07 11:17:39.2065 [DEBUG] Spawn request. (Objects: 229)
+2018-08-07 11:17:39.5246 [DEBUG] Loading complete
+2018-08-07 11:21:33.2240 [DEBUG] Refresh token (Rrpgguxa8oLyECL1mp5kSQ73yO7jmT4PrGsM4L4xkifBGSIeml3uz8TIefJjeDoQIwRsR8Eiu8u2d7DDaknNfk63c8THdunhfFEL3LrEo3ac3ucEYYga5RXN6sD6RK0kk63WYFs4RBJQleSQXi4269rrizFrwfEgD5SrwfIgtpoDbXOH8xbmqugzIpPinmdAhJLRk3Z1S5flIT1szguG1LimsAHNMLCeaajUpk7FIitfFhgegaanBbbkLwoH2kh) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-08-07 11:22:34.4215 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-08-07 11:22:34.4215 [DEBUG] Disconnecting from room (79090:SceneFusion:SceneFusion)
+2018-08-07 11:22:34.4285 [INFO] Disconnected from server.
+2018-08-07 11:22:34.4285 [DEBUG] Disconnect. (Duration: 298)
+2018-08-07 11:22:34.4815 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-08-07 11:22:44.5735 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 11:22:45.0405 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 11:22:45.5535 [DEBUG] Connecting to room (79090:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 11:22:45.5795 [DEBUG] Host connection. (Session: 79090)
+2018-08-07 11:22:45.7775 [DEBUG] Validating model...
+2018-08-07 11:22:45.9005 [DEBUG] Model updated
+2018-08-07 11:22:45.9025 [DEBUG] Authenticating with server...
+2018-08-07 11:22:46.0835 [DEBUG] Connected to room. (79090:SceneFusion:SceneFusion)
+2018-08-07 11:22:46.2145 [INFO] Connected to server.
+2018-08-07 11:22:46.2145 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 11:22:46.2145 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 11:22:46.2156 [DEBUG] Pro License : False
+2018-08-07 11:22:46.2166 [DEBUG] Platform : WindowsEditor
+2018-08-07 11:22:46.2166 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 11:22:46.2166 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 11:22:46.2166 [DEBUG] Scene Fusion client build : 0
+2018-08-07 11:22:46.2166 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 11:22:46.6326 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 11:22:46.6326 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 11:23:12.6558 [DEBUG] Play mode: False
+2018-08-07 11:23:15.1269 [DEBUG] Loading complete
+2018-08-07 11:24:33.8064 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-08-07 11:24:33.8094 [DEBUG] Disconnecting from room (79090:SceneFusion:SceneFusion)
+2018-08-07 11:24:33.8304 [INFO] Disconnected from server.
+2018-08-07 11:24:33.8304 [DEBUG] Disconnect. (Duration: -537)
+2018-08-07 11:24:33.9164 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-08-07 11:24:43.3789 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 11:24:43.4339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:43.5689 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 11:24:43.6149 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:43.9239 [DEBUG] Connecting to room (79090:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 11:24:43.9520 [DEBUG] Host connection. (Session: 79090)
+2018-08-07 11:24:44.0490 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.0799 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.0979 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.1139 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.1319 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.1499 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.1659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.2149 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.2339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.2529 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.2719 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.2799 [DEBUG] Validating model...
+2018-08-07 11:24:44.3129 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.3340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.3660 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.3810 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.4000 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.4180 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.4300 [DEBUG] Model updated
+2018-08-07 11:24:44.4310 [DEBUG] Authenticating with server...
+2018-08-07 11:24:44.4620 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.4860 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.5050 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.5230 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.5570 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.5850 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.6140 [DEBUG] Connected to room. (79090:SceneFusion:SceneFusion)
+2018-08-07 11:24:44.6410 [INFO] Connected to server.
+2018-08-07 11:24:44.6420 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 11:24:44.6420 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 11:24:44.6420 [DEBUG] Pro License : False
+2018-08-07 11:24:44.6430 [DEBUG] Platform : WindowsEditor
+2018-08-07 11:24:44.6440 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 11:24:44.6440 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 11:24:44.6440 [DEBUG] Scene Fusion client build : 0
+2018-08-07 11:24:44.6440 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 11:24:44.6600 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.6830 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.7030 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.7380 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:44.8840 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 11:24:44.8840 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 11:24:45.5860 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.6570 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.6860 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.7070 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.7340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.7570 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.7770 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.7920 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.8160 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.8360 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.8520 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.8710 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.8870 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.9110 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.9330 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.9510 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.9680 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:45.9880 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.0080 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.0240 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.0520 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.0700 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.0880 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.1050 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.1220 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.1401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.1571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.1811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.1971 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.3461 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.3701 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.3891 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.4071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.4241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.4411 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.4631 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.4821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.4981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.5151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.5331 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.5521 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.5681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.5871 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.6041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.6201 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.6401 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.6591 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.6891 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.7071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.7261 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.7451 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.7671 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.7891 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.8071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.8271 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.8471 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.8651 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.8881 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.9041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.9241 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.9461 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:46.9671 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.0451 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.0681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.0851 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.1061 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.1261 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.1451 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.1611 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.1781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.1991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.2211 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.2421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.2581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.2811 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.3021 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.3191 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.3361 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.3591 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.3841 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.4051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.4201 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.4391 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.4561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.4721 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.4951 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.5162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.5321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.5491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.5681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.5841 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.6051 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.6201 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.6361 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.6551 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.6731 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.6981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.7141 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.7301 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.7522 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.7681 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.7882 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.8041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.8251 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.8422 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.8582 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.8801 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.8982 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.9162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.9332 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.9502 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.9662 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:47.9842 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.0072 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.0232 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.0412 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.0612 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.0772 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.0972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.1172 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.1332 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.1502 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.1712 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.1852 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.2112 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.2292 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.2462 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.2672 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.2892 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.3132 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.3312 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.3462 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.3652 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.3882 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.4232 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.4442 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.4612 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:48.4922 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+GameMain.Straight () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:174)
+GameMain.Update () (at Assets/ZRNAssets/PQAssets/Scripts/GameMain.cs:146)
+
+2018-08-07 11:24:49.3722 [DEBUG] Play mode: False
+2018-08-07 11:24:50.7643 [DEBUG] Loading complete
+2018-08-07 11:25:04.1491 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-08-07 11:25:04.1521 [DEBUG] Disconnecting from room (79090:SceneFusion:SceneFusion)
+2018-08-07 11:25:04.1681 [INFO] Disconnected from server.
+2018-08-07 11:25:04.1691 [DEBUG] Disconnect. (Duration: -603)
+2018-08-07 11:25:04.2601 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-08-07 11:25:14.0497 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 11:25:14.2177 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 11:25:14.5717 [DEBUG] Connecting to room (79090:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 11:25:14.6027 [DEBUG] Host connection. (Session: 79090)
+2018-08-07 11:25:14.8077 [DEBUG] Validating model...
+2018-08-07 11:25:14.9657 [DEBUG] Model updated
+2018-08-07 11:25:14.9677 [DEBUG] Authenticating with server...
+2018-08-07 11:25:15.1527 [DEBUG] Connected to room. (79090:SceneFusion:SceneFusion)
+2018-08-07 11:25:15.1827 [INFO] Connected to server.
+2018-08-07 11:25:15.1827 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 11:25:15.1827 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 11:25:15.1837 [DEBUG] Pro License : False
+2018-08-07 11:25:15.1847 [DEBUG] Platform : WindowsEditor
+2018-08-07 11:25:15.1847 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 11:25:15.1847 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 11:25:15.1847 [DEBUG] Scene Fusion client build : 0
+2018-08-07 11:25:15.1847 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 11:25:15.4247 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 11:25:15.4247 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 11:25:18.5009 [DEBUG] Play mode: False
+2018-08-07 11:25:18.9879 [DEBUG] Loading complete
+2018-08-07 11:25:27.2871 [DEBUG] Spawn request. (Objects: 1)
+2018-08-07 11:25:49.1053 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-08-07 11:25:49.1073 [DEBUG] Disconnecting from room (79090:SceneFusion:SceneFusion)
+2018-08-07 11:25:49.1323 [INFO] Disconnected from server.
+2018-08-07 11:25:49.1333 [DEBUG] Disconnect. (Duration: -588)
+2018-08-07 11:25:49.2123 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-08-07 11:25:57.8969 [DEBUG] Scene Fusion version 1.8.1-0
+2018-08-07 11:25:58.0909 [DEBUG] Play mode: True, sync in play mode: False
+2018-08-07 11:25:58.4740 [DEBUG] Connecting to room (79090:SceneFusion:SceneFusion) via TCP at ec2-34-211-100-27.us-west-2.compute.amazonaws.com:1026
+2018-08-07 11:25:58.4950 [DEBUG] Host connection. (Session: 79090)
+2018-08-07 11:25:58.6970 [DEBUG] Validating model...
+2018-08-07 11:25:58.9040 [DEBUG] Model updated
+2018-08-07 11:25:58.9060 [DEBUG] Authenticating with server...
+2018-08-07 11:25:59.0830 [DEBUG] Connected to room. (79090:SceneFusion:SceneFusion)
+2018-08-07 11:25:59.1340 [INFO] Connected to server.
+2018-08-07 11:25:59.1340 [DEBUG] OS : Microsoft Windows NT 6.3.9600.0
+2018-08-07 11:25:59.1340 [DEBUG] Unity Version : 2017.4.1f1
+2018-08-07 11:25:59.1350 [DEBUG] Pro License : False
+2018-08-07 11:25:59.1360 [DEBUG] Platform : WindowsEditor
+2018-08-07 11:25:59.1360 [DEBUG] Build Target : StandaloneWindows64
+2018-08-07 11:25:59.1360 [DEBUG] Scene Fusion version : 1.8.1
+2018-08-07 11:25:59.1360 [DEBUG] Scene Fusion client build : 0
+2018-08-07 11:25:59.1360 [DEBUG] User : gavintantleff@gmail.com
+2018-08-07 11:25:59.5380 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2018-08-07 11:25:59.5380 [DEBUG] User Permissions: FFFFFFFF
+2018-08-07 11:26:10.8057 [DEBUG] Play mode: False
+2018-08-07 11:26:11.2617 [DEBUG] Loading complete
+2018-08-07 11:30:14.5965 [DEBUG] Disconnecting from room (79090:SceneFusion:SceneFusion)
+2018-08-07 11:30:14.6085 [INFO] Disconnected from server.
+2018-08-07 11:30:14.6105 [DEBUG] Disconnect. (Duration: -618)
