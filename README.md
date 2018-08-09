@@ -2,8 +2,10 @@
 ## (Free Third Person Shooter)
 This is a program I have been working on for a day (as of 8/8/2018).  It's far from finished and isn't supposed to end up being much game.  It's supposed to be a simple little shooter.  It's not even supposed to have a menu.
 
-## I want to add/compile/run on my own computer!
-Great! The first time you open in unity might take a while to create local files.  Make sure you only upload when unity is closed.
+## I want to make changes/compile/run on my own computer!
+Great! The first time you open in Unity might take a while to create local files.  Make sure you only upload when unity is closed.
+
+Use Unity 2017.4.1f1.  That's what its made in.
 
 I will make releases once you can actually do stuff.  So wait for that.
 ## Multiplayer?
