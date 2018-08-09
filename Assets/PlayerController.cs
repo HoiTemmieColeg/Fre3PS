@@ -26,29 +26,33 @@ public class PlayerController : MonoBehaviour
 
         Debug.Log(time);
         if (Input.GetKey("d"))
-        {
-            moveHorizontal = ThreeWaySpeed;
-        }
-        else if (Input.GetKey("a"))
             {
-                moveHorizontal = -ThreeWaySpeed;
+                //moveHorizontal = ThreeWaySpeed;
+            transform.position += transform.right * ThreeWaySpeed;
             }
-        else
+        if (Input.GetKey("a"))
             {
-                moveHorizontal = 0;
+                //moveHorizontal = -ThreeWaySpeed;
+                transform.position -= transform.right * ThreeWaySpeed;
             }
+        //else
+          //  {
+                //moveHorizontal = 0;
+           // }
 
         if (Input.GetKey("w")){
-            moveVertical = ForwardSpeed;
+            //moveVertical = ForwardSpeed;
+            transform.position += transform.forward * ForwardSpeed;
         }
         else if (Input.GetKey("s"))
         {
-            moveVertical = -ThreeWaySpeed;
+            //moveVertical = -ThreeWaySpeed;
+            transform.position -= transform.forward * ThreeWaySpeed;
         }
-        else
-        {
-            moveVertical = 0;
-        }
+        //else
+        //{
+        //    moveVertical = 0;
+        //}
 
         if (Input.GetKey(KeyCode.Space) && time <= 0) {
             //Debug.Log("Pressing Space");  //This line tells the console you're  pressing space. Uncomment for Debug Purposes.
@@ -68,7 +72,7 @@ public class PlayerController : MonoBehaviour
 
 
 
-        Vector3 movement = new Vector3(moveHorizontal, moveY, moveVertical);
+        Vector3 movement = new Vector3(0, moveY, 0);
 
         rb.AddForce(movement * speed);
     }
