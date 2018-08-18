@@ -640,8 +640,8 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 32702bc8-9406-455c-8e20-6e5284bca154
-  projectName: Fre3PS (1)
-  organizationId: da-project-of-kewlness
+  projectName: Fre3PS
+  organizationId: frozen-cat-studio
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

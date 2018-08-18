@@ -3,28 +3,17 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-
-    public float speed;
-
-    private Rigidbody rb;
-
-    void Start()
-    {
-        rb = GetComponent<Rigidbody>();
-    }
-    public float TimerSpeed;
     public float ForwardSpeed;
     public float ThreeWaySpeed;
     public float JumpSpeed;
     float moveHorizontal;
+    bool isGrounded;
     float moveVertical;
     float moveY;
     float time;
     void FixedUpdate()
     {
-        time += -TimerSpeed;
 
-        Debug.Log(time);
         if (Input.GetKey("d"))
             {
                 //moveHorizontal = ThreeWaySpeed;
@@ -54,26 +43,18 @@ public class PlayerController : MonoBehaviour
         //    moveVertical = 0;
         //}
 
-        if (Input.GetKey(KeyCode.Space) && time <= 0) {
-            //Debug.Log("Pressing Space");  //This line tells the console you're  pressing space. Uncomment for Debug Purposes.
-            if (time <= -4)
-            {
-                time = 2;
-            }
-            if (time >= 0)
-            {
-                moveY = JumpSpeed;
-            }
-            if (time <= -1)
-            {
-                moveY = JumpSpeed * -2;
-            }
+        if (Input.GetKey(KeyCode.Space) && isGrounded == true) {
+            //Debug.Log("Jump");
+            transform.position += Vector3.up * Time.deltaTime * 10f;
         }
-
-
-
-        Vector3 movement = new Vector3(0, moveY, 0);
-
-        rb.AddForce(movement * speed);
+    }
+    void OnCollisionEnter(Collision collision)
+    {
+        isGrounded = true;
+        Debug.Log("Collision Detected");
+    }
+    void OnCollisionExit(Collision collision)
+    {
+        isGrounded = false;
     }
 }
